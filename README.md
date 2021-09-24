@@ -26,7 +26,7 @@ Valid Numbers:
 Invalid Numbers: 
 `["abc", "1a", "1e", "e3", "99e2.5", "--6", "-+3", "95a54e53"]`
 
-Given these numbers, the code will determine if they are valid or invalid for any case.
+Given a String, the code will determine if they are valid or invalid for any case.
 
 Constraints:
 ```
