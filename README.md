@@ -29,5 +29,7 @@ Invalid Numbers:
 Given these numbers, the code will determine if they are valid or invalid for any case.
 
 Constraints:
+```
   1 <= String.length <= 20
   String consists of only English letters (both uppercase and lowercase), digits (0-9), plus '+', minus '-', or dot '.'.
+```
